@@ -62,5 +62,3 @@ switch (e) {
         console.log("e is greater than 5");
         break;
     }
-
-    
