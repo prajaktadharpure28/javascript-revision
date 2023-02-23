@@ -38,4 +38,29 @@ let d = 4;
 let result = (c > d) ? "c is greater than d" : "c is less than d";
 console.log(result);
 
+// Switch Statement
 
+let e = 10;
+
+switch (e) {
+    case 1:
+        console.log("e is equal to 1");
+        break;
+    case 2:
+        console.log("e is equal to 2");
+        break;
+    case 3:
+        console.log("e is equal to 3");
+        break;
+    case 4:
+        console.log("e is equal to 4");
+        break;
+    case 5:
+        console.log("e is equal to 5");
+        break;
+    default:
+        console.log("e is greater than 5");
+        break;
+    }
+
+    
