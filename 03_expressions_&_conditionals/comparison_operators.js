@@ -12,3 +12,8 @@ console.log("a == 10 : ", a == 10);
 
 console.log("a != b : ", a != b);
 console.log("a != 10 : ", a != 10);
+
+// Greater Than
+
+console.log("a > b : ", a > b);
+console.log("a > 10 : ", a > 10);
