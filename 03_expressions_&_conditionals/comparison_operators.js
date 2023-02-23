@@ -71,4 +71,3 @@ console.log("!false : ", !false);
 let age = 18;
 let canDrive = age >= 18 ? "Can Drive" : "Can't Drive";
 console.log(canDrive);
-
