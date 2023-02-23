@@ -23,3 +23,7 @@ console.log("a > 10 : ", a > 10);
 console.log("a < b : ", a < b);
 console.log("a < 10 : ", a < 10);
 
+// Greater Than or Equal To
+
+console.log("a >= b : ", a >= b);
+console.log("a >= 10 : ", a >= 10);
