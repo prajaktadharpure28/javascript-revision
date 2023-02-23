@@ -43,3 +43,12 @@ console.log("a === 10 : ", a === 10);
 console.log("a !== b : ", a !== b);
 console.log("a !== 10 : ", a !== 10);
 
+// Logical Operators
+
+// Logical AND
+
+console.log("true && true : ", true && true);
+console.log("true && false : ", true && false);
+console.log("false && true : ", false && true);
+console.log("false && false : ", false && false);
+
