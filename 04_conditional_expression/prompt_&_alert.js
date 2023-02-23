@@ -18,6 +18,12 @@
 
 // The prompt function is used to get input from the user.
 
+// Example
+
+let name = prompt("What is your name?");
+console.log(name);
+
+
 // Alert
 
 // alert is a function that displays a dialog box with a message and an OK button.
@@ -31,3 +37,8 @@
 // The alert function returns undefined.
 
 // The alert function is used to display a message to the user.
+
+// Example
+
+alert("Hello World");
+
