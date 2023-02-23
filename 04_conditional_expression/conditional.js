@@ -30,4 +30,12 @@ else {
     console.log("a is equal to b");
     }
 
-    
+// Ternary Operator
+
+let c = 10;
+let d = 4;
+
+let result = (c > d) ? "c is greater than d" : "c is less than d";
+console.log(result);
+
+
