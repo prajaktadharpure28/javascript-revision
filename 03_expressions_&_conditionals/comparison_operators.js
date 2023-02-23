@@ -33,3 +33,8 @@ console.log("a >= 10 : ", a >= 10);
 console.log("a <= b : ", a <= b);
 console.log("a <= 10 : ", a <= 10);
 
+// Strict Equal (compares value and datatype)
+
+console.log("a === b : ", a === b);
+console.log("a === 10 : ", a === 10);
+
