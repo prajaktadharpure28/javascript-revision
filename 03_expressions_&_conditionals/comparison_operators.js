@@ -59,3 +59,8 @@ console.log("true || false : ", true || false);
 console.log("false || true : ", false || true);
 console.log("false || false : ", false || false);
 
+// Logical NOT
+
+console.log("!true : ", !true);
+console.log("!false : ", !false);
+
