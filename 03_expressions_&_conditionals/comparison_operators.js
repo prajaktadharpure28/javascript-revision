@@ -64,3 +64,11 @@ console.log("false || false : ", false || false);
 console.log("!true : ", !true);
 console.log("!false : ", !false);
 
+// Ternary Operator
+
+// condition ? exprIfTrue : exprIfFalse
+
+let age = 18;
+let canDrive = age >= 18 ? "Can Drive" : "Can't Drive";
+console.log(canDrive);
+
