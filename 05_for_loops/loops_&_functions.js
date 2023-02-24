@@ -30,3 +30,14 @@ for (let key in person) {
     console.log(key);
 }
 
+// for of loop
+
+// for (variable of object) {
+//     // code block to be executed
+// }
+
+let colors = ["red", "green", "blue"];
+
+for (let color of colors) {
+    console.log(color);
+}
