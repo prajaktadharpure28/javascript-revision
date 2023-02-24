@@ -41,3 +41,16 @@ let colors = ["red", "green", "blue"];
 for (let color of colors) {
     console.log(color);
 }
+
+// for each loop
+
+// array.forEach(function(currentValue, index, arr), thisValue)
+
+let numbers = [45, 4, 9, 16, 25];
+
+numbers.forEach(myFunction);
+
+function myFunction(item, index) {
+    console.log(item);
+}
+
