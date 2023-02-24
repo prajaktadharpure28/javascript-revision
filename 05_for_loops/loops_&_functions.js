@@ -14,3 +14,19 @@ for (let i = 0; i < 10; i++) {
     console.log(i);
 }
 
+// for in loop
+
+// for (variable in object) {
+//     // code block to be executed
+// }
+
+let person = {
+    name: "John",
+    age: 30,
+    city: "New York"
+};
+
+for (let key in person) {
+    console.log(key);
+}
+
