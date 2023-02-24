@@ -12,3 +12,34 @@ for (let i = 10; i >= 1; i--) {
     console.log(i);
 }
 
+// Example 3
+
+for (let i = 1, j = 0; i <= 10 && j <= 10; i++, j++) 
+{
+    console.log(i, j);
+}
+
+// Example 4
+
+for (let i = 1, j = 0; i <= 10 || j <= 10; i++, j++)
+{
+    console.log(i, j);
+}
+
+// Example 5
+
+for (let i = 0; i < 10; i++) {
+    if (i === 5) {
+        break;
+    }
+    console.log(i);
+}
+
+// Example 6
+
+for (let i = 0; i < 10; i++) {
+    if (i === 5) {
+        continue;
+    }
+    console.log(i);
+}
