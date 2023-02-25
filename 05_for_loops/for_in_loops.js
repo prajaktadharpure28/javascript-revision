@@ -20,6 +20,17 @@ for (let key in person) {
     console.log(key, person[key]);
 }
 
+// Example 2
 
+// wap to print the properties of an object using for in loop.
 
+let person1 = {
+    name: "John",
+    age: 30,
+    city: "New York"
+};
+
+for (let key in person1) {
+    console.log(key);
+}
 
