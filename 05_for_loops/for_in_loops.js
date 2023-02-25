@@ -47,4 +47,3 @@ let person2 = {
 for (let key in person2) {
     console.log(person2[key]);
 }
-
