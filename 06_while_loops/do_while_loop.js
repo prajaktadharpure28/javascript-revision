@@ -18,3 +18,15 @@ do {
 }
 while (i <= 10);
 
+// Example 2
+
+// wap to print the numbers from 10 to 1 using do while loop.
+
+let a = 10;
+
+do {
+    console.log(a);
+    a--;
+}
+while (a >= 1);
+
