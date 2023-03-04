@@ -32,3 +32,17 @@ function printNumbers(){
 
 printNumbers();
 
+// Example 3
+
+// wap to print the numbers from 10 to 1 using a function.
+
+function printNumbers(){
+    let i = 10;
+    while (i >= 1){
+        console.log(i);
+        i--;
+    }
+}   
+
+printNumbers(); 
+
