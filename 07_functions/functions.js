@@ -18,3 +18,17 @@ console.log(onePlusAvg(a,b));
 console.log(onePlusAvg(a,c));
 console.log(onePlusAvg(b,c));
 
+// Example 2
+
+// wap to print the numbers from 1 to 10 using a function.
+
+function printNumbers(){
+    let i = 1;
+    while (i <= 10){
+        console.log(i);
+        i++;
+    }
+}
+
+printNumbers();
+
