@@ -28,5 +28,7 @@
 
 ## [13. Do While Loop](./06_while_loops/do_while_loop.js)
 
+## [Practice Set](./06_while_loops/ps.js)
+
 ## [14. Functions](./07_functions/functions.js)
 

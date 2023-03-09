@@ -24,4 +24,3 @@ for(let i in marks){
 for(let i of Object.keys(marks)){
     console.log("Marks of "+i+" are "+marks[i])
 }
-
