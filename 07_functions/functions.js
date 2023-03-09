@@ -56,3 +56,15 @@ const sum = (p,q)=>{
 
 console.log(sum(1,9));
 
+// Example 5
+
+const hello = ()=>{
+    console.log("Hello World");
+    return "Hi"
+}
+
+// console.log(hello());
+// hello();
+
+let v = hello();
+console.log(v);
