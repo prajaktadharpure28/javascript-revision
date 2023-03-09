@@ -5,5 +5,6 @@ let guess = 0;
 
 while (guess != num) {
     guess = prompt("Enter a number")
+    console.log("Try again")
 }
 console.log("You have entered a correct number")
