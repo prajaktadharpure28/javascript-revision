@@ -22,6 +22,8 @@
 
 ## [11. For of Loop](./05_for_loops/for_of_loop.js)
 
+## [Practice Set](./05_for_loops/ps.js)
+
 ## [12. While Loop](./06_while_loops/while_loop.js)
 
 ## [13. Do While Loop](./06_while_loops/do_while_loop.js)
