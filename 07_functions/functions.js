@@ -46,3 +46,13 @@ function printNumbers(){
 
 printNumbers(); 
 
+// Example 4
+
+// wap to print sum of two numbers using arrow functions.
+
+const sum = (p,q)=>{
+    return p + q;
+}
+
+console.log(sum(1,9));
+
