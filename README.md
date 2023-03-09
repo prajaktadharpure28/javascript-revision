@@ -32,3 +32,4 @@
 
 ## [14. Functions](./07_functions/functions.js)
 
+## [Practice Set](./07_functions/ps.js)
