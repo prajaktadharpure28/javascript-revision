@@ -23,7 +23,22 @@ let str1 = "Please locate where 'locate' occurs!"
 let pos1 = str1.lastIndexOf("locate");
 console.log(pos1);
 
+// Template Literals
 
+// Template literals use backtics instead of quotes to define a string.
+// Template literals can contain placeholders. These are indicated by the dollar sign and curly braces (${expression}).
+// The expressions in the placeholders and the text between the backticks (` `) get passed to a function.
+// The default function just joins the parts into a single string.
+
+// Example
+
+// The following example uses a template literal to create a string from two variables:
+
+let firstName = "John";
+let lastName = "Doe";
+
+let fullName = `${firstName} ${lastName}`;
+console.log(fullName);
 
 
 
