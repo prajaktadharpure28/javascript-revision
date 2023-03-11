@@ -17,6 +17,12 @@ let str = "Please locate where 'locate' occurs!"
 let pos = str.indexOf("locate");
 console.log(pos);
 
+// The lastIndexOf() method returns the index of the last occurrence of a specified text in a string:
+
+let str1 = "Please locate where 'locate' occurs!"
+let pos1 = str1.lastIndexOf("locate");
+console.log(pos1);
+
 
 
 
