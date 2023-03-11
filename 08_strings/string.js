@@ -11,6 +11,11 @@ var carName2 = 'Volvo XC60'; // Using single quotes
 let txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 console.log(txt.length);
 
+// The indexOf() method returns the index of (the position of) the first occurrence of a specified text in a string:
+
+let str = "Please locate where 'locate' occurs!"
+let pos = str.indexOf("locate");
+console.log(pos);
 
 
 
