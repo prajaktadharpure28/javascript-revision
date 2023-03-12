@@ -40,5 +40,15 @@ let lastName = "Doe";
 let fullName = `${firstName} ${lastName}`;
 console.log(fullName);
 
+// Escape Sequence Characters
 
+// An escape sequence is a combination of characters that represents a single character.
+// The backslash (\) is used to escape characters that otherwise have a special meaning, like newline or backslash itself.
+// The backslash is also used to escape other backslashes.
 
+// Example
+
+// The following example uses an escape sequence to insert a double quote inside a string:
+
+let txt1 = "Hello \"Everyone!\" How are you?";
+console.log(txt1);
