@@ -52,3 +52,4 @@ console.log(fullName);
 
 let txt1 = "Hello \"Everyone!\" How are you?";
 console.log(txt1);
+
