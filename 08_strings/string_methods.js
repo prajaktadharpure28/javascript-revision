@@ -112,3 +112,31 @@ let str2 = "       Hello World!        ";
 
 console.log(str2.trim());
 
+// CharAt
+
+// The charAt() method returns the character at a specified index (position) in a string:
+
+// Example
+
+// Return the character at index 0 (the first character):
+
+let str3 = "HELLO WORLD";
+console.log(str3.charAt(0));
+
+// Example
+
+// Return the character at index 1 (the second character):
+
+let str4 = "HELLO WORLD";
+console.log(str4.charAt(1));
+
+// CharCodeAt
+
+// The charCodeAt() method returns the unicode of the character at a specified index in a string:
+
+// Example
+
+// Return the unicode of the character at index 0 (the first character):
+
+let str5 = "A";
+console.log(str5.charCodeAt(0));
