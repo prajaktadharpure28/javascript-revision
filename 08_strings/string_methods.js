@@ -84,3 +84,19 @@ console.log(n1);
 
 // To change the original string, you have to assign the new string to the original variable:
 
+// Concat
+
+// The concat() method is used to join two or more strings:
+
+// Example
+
+// Join two strings:
+
+let text1 = "Hello";
+
+let text2 = "World";
+
+let text3 = text1.concat(" ", text2);
+
+console.log(text3);
+
