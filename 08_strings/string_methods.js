@@ -61,3 +61,26 @@ console.log(name.slice(-2))
 let str1 = "Apple, Banana, Kiwi";
 let res1 = str1.slice(-12, -6);
 console.log(res1);
+
+// Replace
+
+// The replace() method replaces a specified value with another value in a string:
+
+// Example
+
+// Replace "Microsoft" with "W3Schools":
+
+let txt3 = "Please visit Microsoft!";
+let n = txt3.replace("Microsoft", "W3Schools");
+console.log(n);
+
+// Example
+
+let txt4 = "Please visit Microsoft and Microsoft!";
+let n1 = txt4.replace(/Microsoft/g, "W3Schools");
+console.log(n1);
+
+// The replace() method does not change the string it is called on. It returns a new string.
+
+// To change the original string, you have to assign the new string to the original variable:
+
