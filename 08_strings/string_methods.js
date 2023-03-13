@@ -36,3 +36,28 @@ console.log(txt2.toLowerCase());
 let str = "Apple, Banana, Kiwi";
 let res = str.slice(7, 13);
 console.log(res);
+
+// Example
+
+let name = "harry";
+console.log(name.slice(2,4))
+
+// Example
+
+console.log(name.slice(2))
+
+// Example
+
+console.log(name.slice(-2))
+
+// The slice() method can take negative indexes.
+
+// Negative indexes can also be used to specify the position, counting from the end of the string.
+
+// This example slices out a portion of a string from position -12 to position -6:
+
+// Example
+
+let str1 = "Apple, Banana, Kiwi";
+let res1 = str1.slice(-12, -6);
+console.log(res1);
