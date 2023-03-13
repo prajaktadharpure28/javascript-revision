@@ -140,3 +140,24 @@ console.log(str4.charAt(1));
 
 let str5 = "A";
 console.log(str5.charCodeAt(0));
+
+// Example
+
+// Return the unicode of the character at index 1 (the second character):
+
+let str6 = "AB";
+console.log(str6.charCodeAt(1));
+
+// Example
+
+// Return the unicode of the character at index 2 (the third character):
+
+let str7 = "ABC";
+console.log(str7.charCodeAt(2));
+
+// Example
+
+// Return the unicode of the character at index 3 (the fourth character):
+
+let str8 = "ABCD";
+console.log(str8.charCodeAt(3));
