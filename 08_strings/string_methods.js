@@ -100,3 +100,15 @@ let text3 = text1.concat(" ", text2);
 
 console.log(text3);
 
+// Trim
+
+// The trim() method removes whitespace from both sides of a string:
+
+// Example
+
+// Remove whitespace from both sides of a string:
+
+let str2 = "       Hello World!        ";
+
+console.log(str2.trim());
+
