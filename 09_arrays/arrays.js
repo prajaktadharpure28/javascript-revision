@@ -22,3 +22,23 @@ console.log(numbers);
 
 let mixed = ['John', 1, 'Jane', 2, 'Mark', 3];
 console.log(mixed);
+
+// Example 4
+
+// Write a program to create an array to print marks of class 12 students.
+// The marks of 12 students are given below:
+
+// 78, 89, 90, 67, null, false, Not Present
+
+// Create an array to store the marks of 12 students.
+
+let marks = [78, 89, 90, 67, null, false, "Not Present"];
+console.log(marks);
+console.log(marks[0]);
+console.log(marks[1]);
+console.log(marks[2]);
+console.log(marks[3]);
+console.log(marks[4]);
+console.log(marks[5]);
+console.log(marks[6]);
+console.log(marks[7]);
