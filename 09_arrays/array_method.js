@@ -36,10 +36,17 @@ console.log(num1.join(""));
 // Example
 
 let fruits2 = ["Banana", "Orange", "Apple", "Mango"];
-console.log(fruits2.pop());
+let a = fruits2.pop()
+console.log(fruits2, a);
 
 // Example
 
 let num2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-console.log(num2.pop());
+let b = num2.pop()
+console.log(num2, b);
+
+
+
+
+
 
