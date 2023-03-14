@@ -41,4 +41,9 @@ console.log(marks[3]);
 console.log(marks[4]);
 console.log(marks[5]);
 console.log(marks[6]);
-console.log(marks[7]);
+console.log(marks[7]); // will be undefined because index 7 does not exist.
+
+// Find the length of an array
+
+console.log("The length of marks of class 12 students is",marks.length);
+
