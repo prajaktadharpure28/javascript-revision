@@ -61,6 +61,22 @@ let d = num3.push(11)
 console.log(num3);
 console.log(d);
 
+// 5. shift() - Removes the first array element and "shifts" all other elements to a lower index.
+
+// Example
+
+let fruits4 = ["Banana", "Orange", "Apple", "Mango"];
+let e = fruits4.shift()
+console.log(fruits4);
+console.log(e);
+
+// Example
+
+let num4 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let f = num4.shift()
+console.log(num4);
+console.log(f);
+
 
 
 
