@@ -47,3 +47,11 @@ console.log(marks[7]); // will be undefined because index 7 does not exist.
 
 console.log("The length of marks of class 12 students is",marks.length);
 
+// Adding a new value to the array
+
+marks[7]=82; 
+
+// Changing the value of an array
+
+marks[1]=100;
+console.log(marks);
