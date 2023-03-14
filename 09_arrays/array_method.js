@@ -77,6 +77,22 @@ let f = num4.shift()
 console.log(num4);
 console.log(f);
 
+// 6. unshift() - Adds a new element to an array (at the beginning), and "unshifts" older elements.
+
+// Example
+
+let fruits5 = ["Banana", "Orange", "Apple", "Mango"];
+let g = fruits5.unshift("Lemon")
+console.log(fruits5);
+console.log(g);
+
+// Example
+
+let num5 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let h = num5.unshift(0)
+console.log(num5);
+console.log(h);
+
 
 
 
