@@ -45,6 +45,22 @@ let num2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let b = num2.pop()
 console.log(num2, b);
 
+// 4. push() - Adds a new element to an array (at the end).
+
+// Example
+
+let fruits3 = ["Banana", "Orange", "Apple", "Mango"];
+let c = fruits3.push("Kiwi")
+console.log(fruits3);
+console.log(c);
+
+// Example
+
+let num3 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let d = num3.push(11)
+console.log(num3);
+console.log(d);
+
 
 
 
