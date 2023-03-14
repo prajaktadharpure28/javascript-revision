@@ -11,3 +11,14 @@
 let names = ['John', 'Mark', 'Jane'];
 console.log(names);
 
+// Example 2
+// Create an array of numbers
+
+let numbers = [1, 2, 3, 4, 5];
+console.log(numbers);
+
+// Example 3
+// Create an array of mixed data types
+
+let mixed = ['John', 1, 'Jane', 2, 'Mark', 3];
+console.log(mixed);
