@@ -177,3 +177,16 @@ let num12 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let num13 = num12.reverse();
 console.log(num13);
 
+// 11. splice() - The splice() method can be used to add new items to an array.
+
+// Example
+
+let fruits14 = ["Banana", "Orange", "Apple", "Mango"];
+let fruits15 = fruits14.splice(2, 0, "Lemon", "Kiwi");
+console.log(fruits14);
+
+// Example
+
+let num14 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let num15 = num14.splice(4, 0, 11, 12);
+console.log(num14);
