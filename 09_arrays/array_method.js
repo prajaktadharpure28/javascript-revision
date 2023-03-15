@@ -123,4 +123,17 @@ let num8 = [11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
 let num9 = num7.concat(num8);
 console.log(num9);
 
+// 9. sort() - The sort() method sorts arrays alphabetically.
+
+// Example
+
+let fruits10 = ["Banana", "Orange", "Apple", "Mango"];
+let fruits11 = fruits10.sort();
+console.log(fruits11);
+
+// Example
+
+let arr = ["q", "w", "e", "r", "t", "y", "u", "i", "o", "p", "a", "s", "d", "f", "g", "h", "j", "k", "l", "z", "x", "c", "v", "b", "n", "m"];
+let arr1 = arr.sort();
+console.log(arr1);
 
