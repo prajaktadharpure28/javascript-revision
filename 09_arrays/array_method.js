@@ -190,3 +190,17 @@ console.log(fruits14);
 let num14 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let num15 = num14.splice(4, 0, 11, 12);
 console.log(num14);
+
+// 12. slice() - The slice() method slices out a piece of an array into a new array.
+
+// Example
+
+let fruits16 = ["Banana", "Orange", "Apple", "Mango"];
+let fruits17 = fruits16.slice(2);
+console.log(fruits17);
+
+// Example
+
+let num16 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let num17 = num16.slice(4);
+console.log(num17);
