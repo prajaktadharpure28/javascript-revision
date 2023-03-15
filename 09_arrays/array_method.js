@@ -137,3 +137,10 @@ let arr = ["q", "w", "e", "r", "t", "y", "u", "i", "o", "p", "a", "s", "d", "f",
 let arr1 = arr.sort();
 console.log(arr1);
 
+// Example
+
+let num10 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let num11 = num10.sort();
+console.log(num11);
+
+
