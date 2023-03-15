@@ -163,5 +163,17 @@ let compare1 = (a,b)=>{
 let points3 = points2.sort(compare1);
 console.log(points3);
 
+// 10. reverse() - The reverse() method reverses the elements in an array.
 
+// Example
+
+let fruits12 = ["Banana", "Orange", "Apple", "Mango"];
+let fruits13 = fruits12.reverse();
+console.log(fruits13);
+
+// Example
+
+let num12 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let num13 = num12.reverse();
+console.log(num13);
 
