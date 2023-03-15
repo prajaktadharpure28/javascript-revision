@@ -107,5 +107,20 @@ let num6 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 delete num6[0];
 console.log(num6);
 
+// 8. concat() - cocat used to join arrays to the given array
+
+// Example
+
+let fruits7 = ["Banana", "Orange", "Apple", "Mango"];
+let fruits8 = ["Banana", "Orange", "Apple", "Mango"];
+let fruits9 = fruits7.concat(fruits8);
+console.log(fruits9);
+
+// Example
+
+let num7 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let num8 = [11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
+let num9 = num7.concat(num8);
+console.log(num9);
 
 
