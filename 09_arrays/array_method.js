@@ -143,4 +143,25 @@ let num10 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let num11 = num10.sort();
 console.log(num11);
 
+// compare function
+
+// Example
+
+let points = [40, 100, 1, 5, 25, 10];
+let compare = (a,b)=>{
+    return a - b;
+}
+let points1 = points.sort(compare);
+console.log(points1);
+
+// Example  
+
+let points2 = [40, 100, 1, 5, 25, 10];
+let compare1 = (a,b)=>{
+    return b - a;
+}
+let points3 = points2.sort(compare1);
+console.log(points3);
+
+
 
