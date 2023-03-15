@@ -93,8 +93,19 @@ let h = num5.unshift(0)
 console.log(num5);
 console.log(h);
 
+// 7. delete() - Array elements can be deleted by using the JavaScript operator delete.
 
+// Example
 
+let fruits6 = ["Banana", "Orange", "Apple", "Mango"];
+delete fruits6[0];
+console.log(fruits6);
+
+// Example
+
+let num6 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+delete num6[0];
+console.log(num6);
 
 
 
